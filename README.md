@@ -1,2 +1,3 @@
-#Git-Test
-    This is a test file for the properties of Github Desktop.
+#**Git-Test**
+
+This is a test file for the properties of Github Desktop.
